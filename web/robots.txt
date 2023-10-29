@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://buhprogrecc.ru/web/sitemap.xml
